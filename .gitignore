@@ -39,6 +39,8 @@ MANIFEST
 /uploaded_files
 /static
 
+/mediafiles
+
 migrations/
 
 # Installer logs
